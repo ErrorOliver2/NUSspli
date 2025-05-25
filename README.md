@@ -1,5 +1,6 @@
 # NUSspli
 Install content directly from the Nintendo Update Servers to your Wii U.
+This fork adds Neon Reverie - Blast Off Music. Nothing else really. Nothing else planned, just that because it sounds like a remix.
 
 [![build](https://github.com/V10lator/NUSspli/actions/workflows/master.yml/badge.svg)](https://github.com/V10lator/NUSspli/actions/workflows/master.yml)
 
